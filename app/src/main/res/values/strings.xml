@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebViewtoolbarViewproj</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="submit_url">Submit</string>
+    <string name ="url">Enter Url </string>
+</resources>
